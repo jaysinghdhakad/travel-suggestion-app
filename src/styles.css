@@ -1,0 +1,30 @@
+.App {
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+  background-image: url("/undraw_explore_7ofa.svg");
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+#span {
+  padding: 0.3rem;
+  background-color: transparent;
+  border: 1px solid grey;
+  margin: 0.5rem;
+  font-style: italic;
+  font-weight: bold;
+  border-radius: 0.5rem;
+}
+ul {
+}
+#list {
+  list-style-type: none;
+  padding: 1rem 3rem;
+  margin: 0.5rem auto;
+  border: 1px solid grey;
+  background-color: transparent;
+  width: 50%;
+  border-radius: 1rem;
+}
